@@ -1,9 +1,9 @@
 {
     "name": "robot-recall-fixed",
-    "version": "0.2.15",
+    "version": "0.2.16",
     "title": "Robot Recall, fixed",
     "author": "uliet",
-    "factorio_version": "0.18",
-    "dependencies": ["base >= 0.18", "! robot-recall"],
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.38", "! robot-recall"],
     "description": "Lets you recall all robots in your network.  Forked from 343N's 0.2.15 version."
 }
